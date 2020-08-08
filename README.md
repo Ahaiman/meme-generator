@@ -6,7 +6,7 @@ How you ever wondered what it will be like to create your own meme ? if you nodd
 --------
 Description
 -------------
-![See how it looks like](images\image1.png)
+![See how it looks like](images/images1.png)
 
 Meme Generator helps produce `your own` meme, with `your own` captions.
 
