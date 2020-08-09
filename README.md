@@ -8,7 +8,7 @@ Description
 -------------
 ![See how it looks like](/images/image1.png)
 
-Meme Generator helps produce **your own** meme, with **your own** captions.
+Meme Generator creates **your own** meme, with **your own** captions.
 
 
 Technology Wise
@@ -23,8 +23,9 @@ The components are based on `functional components` and on `class components`.
 How Does It Work?
 -------------
 
-Enter the top and bottoms captions you want to show on the meme. 
+Fill the top and bottom captions you want to see on the meme. 
 Click on the "Gen" botton, and IT'S READY !
+If you desire changing the image, just press the "Gen" button again and a new meme will be generated.
 
  **Note** 
   > - images are randomlly chosen from an end-point.
