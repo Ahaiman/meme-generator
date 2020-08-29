@@ -11,7 +11,7 @@ Description
 Meme Generator creates **your own** meme, with **your own** captions.
 
 ## Deployed App
-Please visit the next link in order to see the app in production deployed over `firebase` : https://meme-generator-86b05.web.app/
+Please visit the next link in order to see the app deployed over `firebase` : https://meme-generator-86b05.web.app/
 
 Technology Wise
 -------------
